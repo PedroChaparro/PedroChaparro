@@ -1,12 +1,13 @@
-### Hi there 👋
+### Hi there 👋, I´m Pedro 🧑🏽‍💻
+
+- 🌱 I’m currently learning about Front-end and Back-end development. 
+- 🔭 I’m interested in learning Data Science, Machine Learning and Competitive Programming topics. 
 
 <div align="center">
   <a href="https://github.com/PedroChaparro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroChaparro&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroChaparro&layout=compact&langs_count=6&theme=light"/>
 </div>
-  
- ![Snake animation](https://github.com/PedroChaparro/PedroChaparro/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **PedroChaparro/PedroChaparro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
