@@ -5,8 +5,8 @@
 
 <div align="center">
   <a href="https://github.com/PedroChaparro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroChaparro&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroChaparro&layout=compact&langs_count=6&theme=light"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroChaparro&show_icons=true&include_all_commits=true&count_private=true&theme=nord"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroChaparro&layout=compact&langs_count=10&exclude_repo=Proyecto_Estructura,Personal_Project_LVaED&hide=Ruby&theme=nord"/>
 </div>
 
 <!--
